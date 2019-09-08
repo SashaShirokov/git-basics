@@ -29,3 +29,7 @@ print(my_list[::-1])
 
 my_list = [i for i in nums]
 print(my_list)
+
+
+l = [n * n for n in nums]
+print(l)
